@@ -104,11 +104,11 @@
 				6A3E26432C7D208F0079EB05 /* AppDelegate.swift */,
 				6A3E26452C7D208F0079EB05 /* SceneDelegate.swift */,
 				6A3E26472C7D208F0079EB05 /* ViewController.swift */,
+				6AD73D0B2C7E137A00615420 /* AccountViewController.swift */,
 				6A3E26492C7D20900079EB05 /* Main.storyboard */,
 				6A3E264C2C7D20900079EB05 /* Assets.xcassets */,
 				6A3E264E2C7D20900079EB05 /* LaunchScreen.storyboard */,
 				6A3E26512C7D20900079EB05 /* Info.plist */,
-				6AD73D0B2C7E137A00615420 /* AccountViewController.swift */,
 			);
 			path = Testing;
 			sourceTree = "<group>";
